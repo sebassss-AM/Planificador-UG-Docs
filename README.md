@@ -66,8 +66,9 @@ El proyecto sigue una arquitectura modular y "pura" (Vanilla JS), lo que garanti
 
 ## 🎥 Video Demostrativo
 
-https://github.com/user-attachments/assets/b1350313-4650-442e-9a1b-dd3b3b0a8921
----
+<video src="https://github.com/user-attachments/assets/b1350313-4650-442e-9a1b-dd3b3b0a8921" controls="controls" style="max-width: 100%;">
+  Tu navegador no soporta el video.
+</video>
 
 ## ✉️ Contacto
 
